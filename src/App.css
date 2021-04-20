@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.success{
+  margin:20px;
+  text-align: center;
+}
+/* 
+@media all and(max-width:576px){
+  .container{
+    width:18rem;
+  }
+} */
